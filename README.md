@@ -7,7 +7,6 @@ Proyecto en **HTML, CSS y JavaScript** que permite agregar nombres a una lista y
 - Validar entradas vacías y duplicados.
 - Mostrar la lista en pantalla.
 - Sortear un amigo secreto al azar.
-- Reiniciar la lista para un nuevo sorteo.
 
 ## 🖥️ Uso
 1. Abre `index.html` en tu navegador.
